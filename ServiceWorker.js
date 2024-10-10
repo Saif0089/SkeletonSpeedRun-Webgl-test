@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Skeleton SpeedRun-0.1";
 const contentToCache = [
-    "Build/skeleton speed run build.loader.js",
-    "Build/skeleton speed run build.framework.js",
-    "Build/skeleton speed run build.data",
-    "Build/skeleton speed run build.wasm",
+    "Build/SkeletonSpeedRun-Webgl-test.loader.js",
+    "Build/SkeletonSpeedRun-Webgl-test.framework.js",
+    "Build/SkeletonSpeedRun-Webgl-test.data",
+    "Build/SkeletonSpeedRun-Webgl-test.wasm",
     "TemplateData/style.css"
 
 ];
